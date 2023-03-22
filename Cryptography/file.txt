@@ -1,0 +1,2 @@
+We will generate a digest of this text
+SHA256:6101b527e1cb5c607505f450fa5c61e0469cc0229b3402ebca224791ebbee8f3
